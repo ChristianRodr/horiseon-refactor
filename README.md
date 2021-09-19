@@ -14,6 +14,7 @@ Fixed the problem where the “Search Engine Optimization” button in the heade
 ## Website
 https://christianrodr.github.io/horiseon-refactor/#social-media-marketing
 
+![screenshot-for-read-me](https://user-images.githubusercontent.com/89299940/133916807-613bd371-7bee-4d7b-b308-6b9f8e230211.png)
 
 ## Contribution
 Edited by Christian Rodriguez
